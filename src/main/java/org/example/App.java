@@ -13,5 +13,6 @@ public class App
         System.out.println("master3");
         System.out.println("master4");
         System.out.println("hot-fix");
+        System.out.println("hot-fix2");
     }
 }
