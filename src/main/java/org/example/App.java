@@ -19,5 +19,6 @@ public class App
         System.out.println("hot-fix");
         System.out.println("hot-fix2");
         System.out.println("master7");
+        System.out.println("master8");
     }
 }
