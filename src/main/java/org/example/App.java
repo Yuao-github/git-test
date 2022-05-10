@@ -16,5 +16,7 @@ public class App
         System.out.println("master6");
         System.out.println("cold-fix1");
         System.out.println("cold-fix2");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix2");
     }
 }
